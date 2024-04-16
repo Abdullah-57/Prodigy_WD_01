@@ -1,2 +1,2 @@
-# Prodigy_WD_01
-Building a Responsive Landing Page as the 1st Task of the Prodigy InfoTech Internship
+# Prodigy_WD_02
+Building a Stop Watch Web Application as the 2nd Task of the Prodigy InfoTech Internship
